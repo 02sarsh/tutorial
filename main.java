@@ -10,7 +10,7 @@ public class main {
           
           
         /*  service.addproducts(new product("laptop","system","table1",2024));
-          service.addproducts(new product("Laptop A1", "System A1", "Table 11", 2024));
+          service.addproducts(new product("Laptop A10", "System A1", "Table 11", 2024));
           service.addproducts(new product("Laptop A2", "System A2", "Table 12", 2023));
           service.addproducts(new product("Laptop A3", "System A3", "Table 13", 2022));
           service.addproducts(new product("Laptop A4", "System A4", "Table 14", 2021));
